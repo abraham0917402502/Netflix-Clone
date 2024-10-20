@@ -52,6 +52,9 @@
 }
 
 .service_code {
+  width: 100px;
+   
+  border: #ffffff 1px solid;
   margin-bottom: 20px;
   cursor: pointer;
   transition: color 0.3s ease;
